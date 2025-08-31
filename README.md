@@ -1,4 +1,4 @@
 # c-programming
-university assignments on c programming
+University assignments on c programming
 <br>
-done by Yasmin Sultana
+ By Yasmin Sultana
